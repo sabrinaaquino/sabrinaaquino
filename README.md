@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabrinaaquino
-- 👀 I’m interested in Web Development, Python and simulations! 
+- 👀 I’m interested in Web Development, Python and solving difficult problems. 
 - 🌱 I’m currently learning React, but I'm also onto some projects with Python and C.
 - 📫 You can reach me via e-mail: sabrina.aquino@hotmail.com
 
