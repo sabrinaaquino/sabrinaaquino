@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabrinaaquino
-- 👀 I’m interested in Web Development, Databases and solving difficult problems. 
-- 🌱 I’m currently learning React, but I'm also onto some projects with Python and C.
+- 👀 I’m interested in Web Development, Databases, Data Science and solving problems. 
+- 🌱 I’m currently learning React, Node and Express.
 - 📫 You can reach me via e-mail: sabrina.aquino@hotmail.com
 
 
