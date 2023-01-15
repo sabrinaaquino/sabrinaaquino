@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.shakudo.io/blog](https://www.shakudo.io/blog)
 
-- 💬 Ask me about **AI, Front-end and Databases**
+- 💬 Ask me about **Software Development, AI, and Data**
 
 - 📫 How to reach me **sabrina.aquino@hotmail.com**
 
