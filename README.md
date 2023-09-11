@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sabrinaesaquino" target="blank"><img src="https://img.shields.io/twitter/follow/sabrinaesaquino?logo=twitter&style=for-the-badge" alt="sabrinaesaquino" /></a> </p>
 
-- 🌱 I’m currently developing in **Typescript, Next.js, tRPC, Tailwind and Prisma**
-
 - 📝 I regularly write articles on [https://www.shakudo.io/blog](https://www.shakudo.io/blog)
 
 - 💬 Ask me about **Software Development, AI, and Data**
