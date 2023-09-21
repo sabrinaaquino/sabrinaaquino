@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabrina</h1>
-<h3 align="center">A Developer Advocate and Computer Engineer from Brazil</h3>
+<h3 align="center">A Software Engineer with too many side projects</h3>
 
 <p align="left"> <a href="https://twitter.com/sabrinaesaquino" target="blank"><img src="https://img.shields.io/twitter/follow/sabrinaesaquino?logo=twitter&style=for-the-badge" alt="sabrinaesaquino" /></a> </p>
 
