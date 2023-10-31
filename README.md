@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabrinaesaquino" target="blank"><img src="https://img.shields.io/twitter/follow/sabrinaesaquino?logo=twitter&style=for-the-badge" alt="sabrinaesaquino" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.shakudo.io/blog](https://www.shakudo.io/blog)
-
-- 💬 Ask me about **Software Development, AI, and Data**
-
-- 📫 How to reach me **sabrina.aquino@hotmail.com**
+- 💬 Ask me about **DevRel, Software Architecture, Javascript, Computers, and Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
